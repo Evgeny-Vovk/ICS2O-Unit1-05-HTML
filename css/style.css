@@ -1,8 +1,0 @@
-/* Created by: Evgeny Vovk
-* Created on: Fab 2022
-* This CSS file defines the style for extra-index.html ICS2O-Unit1-04-HTML
-*/
-
-button i::before {
-  content: "⬇️";
-}
